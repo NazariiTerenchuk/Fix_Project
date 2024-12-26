@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Fix\\Fix\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Fix\\Fix\\Assets\\ScriptsForCube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ScriptsForCube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Fix\\Fix\\Assets\\RotateCube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\RotateCube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Fix\\Fix\\Temp\\Compiled-Standard.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\Compiled-Standard.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -27,15 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ScriptsForCube.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Fix\\Fix\\Assets\\ScriptsForCube.cs",
+              "RelativeDocumentMoniker": "Assets\\ScriptsForCube.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Fix\\Fix\\Assets\\ScriptsForCube.cs",
+              "RelativeToolTip": "Assets\\ScriptsForCube.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:35:15.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RotateCube.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Fix\\Fix\\Assets\\RotateCube.cs",
+              "RelativeDocumentMoniker": "Assets\\RotateCube.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Fix\\Fix\\Assets\\RotateCube.cs",
+              "RelativeToolTip": "Assets\\RotateCube.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:16:33.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Compiled-Standard.shader",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Fix\\Fix\\Temp\\Compiled-Standard.shader",
               "RelativeDocumentMoniker": "Temp\\Compiled-Standard.shader",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Fix\\Fix\\Temp\\Compiled-Standard.shader",
               "RelativeToolTip": "Temp\\Compiled-Standard.shader",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-26T21:06:18.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T21:06:18.763Z"
             }
           ]
         }
